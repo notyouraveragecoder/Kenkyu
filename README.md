@@ -6,7 +6,7 @@ Of course, reading a paper is confusing, and kind of hard, but with Kenkyu, we s
 
 This chatbot makes a connection between the various APIs that can aid a researcher. e.g. Find them the research paper they're looking for, find similar research paper, look through confusing terms etc.
 
-Following are some examples of bot triggers
+Following are the bot triggers
 
 1. What are some trending research papers?
 2. I want to scrape all the images from this paper.
