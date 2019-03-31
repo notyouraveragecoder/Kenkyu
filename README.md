@@ -10,7 +10,7 @@ Following are some examples of bot triggers
 
 1. What are some trending research papers?
 2. I want to scrape all the images from this paper.
-3. What does the following word mean? 
+3. What does the following word/phrase mean?
 4. I want to search and download this paper.
 5. What is this research paper about?
 
