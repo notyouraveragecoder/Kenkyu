@@ -1,6 +1,6 @@
 ## Kenkyu
 
-An user-friendly, research assistant that can help you out while you read a research paper. 
+A user-friendly, research assistant that can help you out while you read a research paper. 
 
 Of course, reading a paper is confusing, and kind of hard, but with Kenkyu, we solve these problems! Although still in its infancy, we aim to grow it as time passes.
 
